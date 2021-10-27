@@ -14,9 +14,9 @@ git clone https://github.com/JoergenKoeldal/Christiansoe.git
 
 Open `Christiansoe.sln` in visual studio and run the program.
 
-**Linux**
+**Linux:**
 
-Navigate into the `Christiansoe` folder and execute `dotnet run`. (Requires the dotnet cli).
+Navigate into the `Christiansoe` folder and execute `dotnet run`. (Requires the [dotnet cli](https://docs.microsoft.com/en-us/dotnet/core/tools/)).
 
 
 
